@@ -161,7 +161,7 @@ h1, h2, h3 {
     border: 5px rgb(183, 186, 189);
     border-style: outset;
     opacity: 0.75;
-    background-image: url("IMG/1.jpg");
+    background-image: url("IMG/1.jpg") 50% 80%;
     background-size: cover;
 }
 .block_r :hover {
